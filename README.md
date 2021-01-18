@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center"> Animated Periodic Table </h1>
+<h1 align="center">Animated Periodic Table</h1>
 <p align="center">
   <a href="https://github.com/meokisama/meokisama.github.io/blob/develop/LICENSE">
     <img src="https://img.shields.io/badge/license-UNLICENSE-blue.svg"/>
